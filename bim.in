@@ -1,0 +1,7 @@
+10.271	Coupling parameter gamma=e^2/ak_BT
+0.05    Density of species 2 over the total density n
+1.      Species 1 charge 
+5.      Species 2 charge 
+0.0     Bridge function status. If 1.0 the bridge is on, 0 if turned off   
+
+
