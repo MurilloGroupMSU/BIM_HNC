@@ -1,0 +1,17 @@
+# BIM_HNC
+F90 code for computing radial distribution functions of binary ionic mixtures in a modified HNC approximation.
+
+The main code is written as a F90 file, and can be compiled with gfortran.
+
+Instructions
+
+1- download bim_hnc.f90 and bim.in
+
+2- Compile and run using:
+
+    gfortran -o bim_hnc bim_hnc.f90 
+    
+    ./bim_hnc
+
+   
+
